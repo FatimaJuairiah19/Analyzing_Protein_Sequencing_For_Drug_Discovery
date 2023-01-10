@@ -9,4 +9,10 @@ Step3: The Proteins which are Classified as GPCR futher investigate whether they
 
 Step4: Druggable GPCR Proteins are further classified as Druggable for Heart disease, High Blood Pressure and Schizophrenia (Dataset3)
 
-Step5: Some unknown Protein Sequence (unreviewed in UniProt KB) are tested and labelled following the steps(1-6
+Algorithms Used:
+Deep Neural Network
+K-nearest Neighbour
+Decision Tree
+K-means Clustering
+Gaussian Clustering
+
