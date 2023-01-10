@@ -1,5 +1,5 @@
 # Analyzing_Protein_Sequencing_For_Drug_Discovery
-This project is based on computational biology to find drug target proteins by analyzing the protein sequence and some other features.
+This project is based on computational biology( AI application on bioinformatics) to find drug target proteins by analyzing the protein sequence and some other features.
 
 Step1: Feature Extraction: Finding Average fector distances from 20 amio acids for all sequences(Dataset1)
 
